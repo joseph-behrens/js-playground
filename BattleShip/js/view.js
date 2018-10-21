@@ -1,3 +1,5 @@
+'use strict';
+
 let view = {
     displayMessage: function(msg) {
         let messageArea = document.getElementById('messageArea');
